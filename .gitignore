@@ -6,3 +6,7 @@ bin
 /.settings
 /examples/*/*/.gitignore
 .idea
+
+.project
+
+.settings
