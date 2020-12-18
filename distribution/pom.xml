@@ -6,7 +6,6 @@
 		<groupId>com.digi.xbee</groupId>
 		<artifactId>xbee-java-library-parent</artifactId>
 		<version>1.3.0</version>
-		<relativePath>..\pom.xml</relativePath>
 	</parent>
 	
 	<artifactId>distribution</artifactId>

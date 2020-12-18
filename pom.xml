@@ -119,8 +119,8 @@
 	
 	<!-- Properties -->
 	<properties>
-		<source.level>1.7</source.level>
-		<target.level>1.7</target.level>
+		<source.level>11</source.level>
+		<target.level>11</target.level>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.plugin.version>3.6.0</maven.compiler.plugin.version>
 		<maven.source.plugin.version>2.4</maven.source.plugin.version>
@@ -135,8 +135,8 @@
 		<slf4j-nop.version>1.7.12</slf4j-nop.version>
 		<junit.version>4.12</junit.version>
 		<mockito.version>1.10.19</mockito.version>
-		<powermock.version>1.6.6</powermock.version>
-		<cobertura.maven.plugin.version>2.7</cobertura.maven.plugin.version>
+    <powermock.version>1.7.4</powermock.version>
+    <cobertura.maven.plugin.version>2.7</cobertura.maven.plugin.version>
 		<asm.plugin.version>5.0.3</asm.plugin.version>
 		<maven.assembly.version>2.5.4</maven.assembly.version>
 		<exec.maven.version>1.4.0</exec.maven.version>
